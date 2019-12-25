@@ -11,7 +11,7 @@ It also contains additional research papers which I keep finding useful along my
 
 ### Part 1 
 
-1. A Few Useful Things to know about Machine Learning - Pedro Domingos : A very useful paper summarizing all the key learnings from an ML standpoint
+1. **[TO READ]** - A Few Useful Things to know about Machine Learning - Pedro Domingos : A very useful paper summarizing all the key learnings from an ML standpoint
 
 2. Introduction to CNNs : An article, pretty different from a conventional paper, but provides a comprehensive explanation through mathematical concepts and derivations of basic CNN elements
 
